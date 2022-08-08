@@ -1,4 +1,4 @@
-package testgit.my.test.pckg;
+package testgit.my.test.pckg.sub;
 
 public class TestGitClass {
 
