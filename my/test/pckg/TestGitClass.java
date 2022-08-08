@@ -8,8 +8,4 @@ public class TestGitClass {
     this.testVariable = testVariable;
   }
 
-  public String getTestVariable() {
-    return this.testVariable;
-  }
-
 }
